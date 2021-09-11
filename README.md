@@ -45,3 +45,14 @@ Here are some ideas to get you started:
 ### Give us some ❤️ by starring our repositories!
 
 </div>
+<p align="center">
+<a href="https://instagram.com/axl.killer/">
+  <img align="left" alt="AxL Killer Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/axlkiller.fb/">
+  <img align="left" alt="Killer Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/axlkiller/">
+  <img align="left" alt="AxL Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+</p>
