@@ -1,4 +1,4 @@
-## Hi there, I'm [AxL!](https://facebook.com/axlkiller.fb) 👋
+## Hi there, I'm [AxL!](https://facebook.com/axlkiller.fb) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axlkiller&label=Views&color=blue&style=plastic" alt="axlkiller" /> </p>
 
 <!--
