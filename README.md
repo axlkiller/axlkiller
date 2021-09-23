@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=axlkiller&show_icons=true&locale=en&theme=chartreuse-dark" alt="axlkiller" />
-<a href="https://github.com/axlkiller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlkiller&theme=chartreuse-dark&hide_langs_below=1" />
-</a>
+<a href="https://github.com/axlkiller"><img title="axlkiller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlkiller&theme=chartreuse-dark&layout=compact"></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axlkiller&theme=chartreuse-dark">
 </p>
 
 <div align="center">
