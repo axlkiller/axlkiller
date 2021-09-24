@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## Give us some ❤️ by starring our repositories!
+### Give us some ❤️ by starring our repositories!
 
 </div>
 <p align="center">
